@@ -18,7 +18,7 @@ public class UpDown {
             // 임시 좌표
             int nx = x;
             int ny = y;
-
+            // 
             if (plan.equals("R")) {
                 ny = y + 1;
             } else if (plan.equals("L")) {
