@@ -15,3 +15,8 @@
 <br>
 <br>
 파일명 출저: https://github.com/Yuuraa/Python-Algorithm/tree/main/Coding%20Test%20Cookbook
+
+
+![image](https://github.com/Chochanguk/coding-test/assets/119058637/77fbcefa-cdf6-4d2f-92e1-bea4264a498e)
+폴더 생성시 위 이미지 처럼 workSpace를 재설정 해야함. 저거 클릭하면 오른쪽 하단에 reload and delete 이거 클릭
+![image](https://github.com/Chochanguk/coding-test/assets/119058637/14f98e89-7d6a-4815-87b4-d9da8681674e)
