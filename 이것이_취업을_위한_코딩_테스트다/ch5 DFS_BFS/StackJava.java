@@ -19,7 +19,7 @@ public class StackJava {
         stackInt.pop();
 
         // 최상단 부터 보기
-        while (!stackInt.empty()) {
+        while (!stackInt.isEmpty()) {
             System.out.println(stackInt.pop()); // 꺼내고 출력까지
         }
 
