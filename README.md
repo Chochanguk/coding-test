@@ -1,54 +1,5 @@
-백준 - 삼성 SW 역량테스트 기출문제
-순번	구분	유형	문제	1회 풀이	2회 풀이	3회 풀이	풀이 코드
-1	samsung	DFSBFS, 구현	온풍기 안녕	✅	✅❗️		
-2	samsung	DFSBFS, 구현	주사위굴리기2	✅			
-3	samsung	DFSBFS, 구현	상어중학교	✅			
-4	samsung	DFSBFS, 구현	아기상어	✅			
-5	samsung	DFSBFS, 구현	퇴사	✅	✅		
-6	samsung	DFSBFS, 구현	2048	✅❗️			
-7	samsung	BFS	구슬탈출2	✅❗️			
-8	samsung	DFSBFS, 구현	테트로미노	✅	✅		
-9	samsung	DFSBFS, 구현	주사위굴리기	✅			
-10	samsung	DFSBFS, 구현	청소년상어	✅			
-11	samsung	DFSBFS, 구현	마법사상어와블리자드	✅	✅		
-12	samsung	BFSDFS, 구현	마법사상어와복제	✅❗️			
-13	samsung	구현	경사로	✅			
-14	samsung	시뮬레이션	캐슬 디펜스	✅❗️			
-15	samsung	시뮬레이션	로봇 청소기	✅❗️			
-16	samsung	dfs, 백트래킹	스타트와 링크	✅❗️			
-17	samsung	시뮬레이션	나무 재테크	✅			
-18	samsung	구현	톱니바퀴	✅			
-19	samsung	구현, DFS	감시	✅❗️			
-20	samsung	시뮬레이션	드래곤 커브	✅			
-21	samsung	시뮬레이션	큐빙	✅			
-22	samsung	DFSBFS, 구현	온풍기 안녕	✅			
-23	samsung	BFSDFS, 구현	마법사상어와복제	✅❗️			
-24	samsung	DFSBFS, 구현	주사위굴리기	✅			
-25	samsung	DFSBFS, 구현	상어중학교	✅			
-26	samsung	BFS	구슬탈출2	✅❗️			
-27	samsung	DFSBFS, 구현	청소년상어	✅			
-28	samsung	DFSBFS, 구현	주사위굴리기2	✅			
-29	samsung	DFSBFS, 구현	아기상어	✅			
-30	samsung	DFSBFS, 구현	2048	✅❗️			
-31	samsung	DFSBFS, 구현	퇴사	✅			
-32	samsung	시뮬레이션	미세먼지 안녕	✅			
-33	samsung	시뮬레이션	낚시왕	✅			
-34	samsung	시뮬레이션	이차원 배열과 연산	✅			
-35	samsung	BFS, 백트래킹	연구소 3	✅❗️			
-36	samsung	시뮬레이션	마법사 상어와 파이어스톰	✅			
-37	samsung	완전탐색	게리맨더링 2	✅			
-38	samsung	시뮬레이션	원판 돌리기	✅			
-39	samsung	시뮬레이션	스타트 택시	✅❗️			
-40	samsung	시뮬레이션	주사위 윷놀이	✅❗️			
-41	samsung	시뮬레이션	어른 상어	✅			
-42	samsung	시뮬레이션	모노미노도미노 2	✅			
-43	samsung	구현	어항 정리	✅			
-44	samsung	시뮬레이션	컨베이어 벨트 위의 로봇	✅			
-45	samsung	시뮬레이션	아기 상어	✅			
-46	samsung	구현	나무박멸	✅			
-47	samsung	시뮬레이션	자율주행 자동차	✅			
-48	samsung	시뮬레이션	놀이기구 탑승	✅			
-49	samsung	시뮬레이션	돌아가는 팔각의자	✅			
+
+
 <div align="center">
   <h1>coding-test Study<img src="https://github.com/Chochanguk/springboot-study/assets/119058637/345d9845-cc2d-4cd5-9de4-15b3821e6ecc" height="50"></h1>
 </div>
