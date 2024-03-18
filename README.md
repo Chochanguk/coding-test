@@ -1,4 +1,9 @@
 
+## 백준 - 삼성 SW 역량테스트 기출문제
+
+| 문제 번호 | 난이도 | 유형 | 문제 | 1회 풀이 | 2회 풀이 | 3회 풀이 | 풀이 코드 |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | ------- |
+| 20057 | 난이도 하 | DFSBFS, 구현 | 마법사 상어와 토네이도 | ✅ | ✅❗️ |  |
 
 <div align="center">
   <h1>coding-test Study<img src="https://github.com/Chochanguk/springboot-study/assets/119058637/345d9845-cc2d-4cd5-9de4-15b3821e6ecc" height="50"></h1>
